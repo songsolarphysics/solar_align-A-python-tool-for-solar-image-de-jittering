@@ -166,6 +166,5 @@ MIT License，详见 `LICENSE`。
 
 欢迎通过 GitHub Issues 提交 bug 报告、功能建议或 pull request。
 
-作者：谭嵩 (Song Tan)，Leibniz Institute for Astrophysics Potsdam (AIP)
-联系方式：[此处替换为你的邮箱]
-公众号文章：[此处替换为公众号链接]
+作者：谭宋 (Song Tan)，Leibniz Institute for Astrophysics Potsdam (AIP)
+联系方式：stan@aip.de
