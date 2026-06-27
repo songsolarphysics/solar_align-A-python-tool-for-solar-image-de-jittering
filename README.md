@@ -174,4 +174,4 @@ MIT License. See `LICENSE` for details.
 Issues, feature requests, and pull requests are welcome via GitHub.
 
 Author: Song Tan, Leibniz Institute for Astrophysics Potsdam (AIP)
-Contact: [your email here]
+Contact: stan@aip.de
